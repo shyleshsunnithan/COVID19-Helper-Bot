@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d9c953b2-3156-4a81-9bc2-d66d58558721",
+    "data": [
+      {
+        "text": "can i collect a package from an affected area?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45d2f8e5-8606-469f-b721-d64ca9057941",
+    "data": [
+      {
+        "text": "safe to receive a package from any area where COVID-19 has been reported?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3beffcc-9633-4fd8-8a0b-d7239ce76cb1",
+    "data": [
+      {
+        "text": "safe to receive a package from any area",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f995a264-f264-4025-9c11-13bcfc8f0f2e",
+    "data": [
+      {
+        "text": "Is it safe to receive a package from any area where COVID-19 has been reported?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

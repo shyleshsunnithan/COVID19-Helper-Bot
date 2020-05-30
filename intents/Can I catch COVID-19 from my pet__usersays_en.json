@@ -1,0 +1,38 @@
+[
+  {
+    "id": "19bd9406-6d39-4e8d-ae12-4d175ca21826",
+    "data": [
+      {
+        "text": "Can I catch COVID-19 from my pet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf7fa682-1477-47b1-bfa1-8ed5cfd19743",
+    "data": [
+      {
+        "text": "pets",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "feb4cc03-7edb-43ab-8c5f-4fdbf1b8d7c1",
+    "data": [
+      {
+        "text": "Transfer from pets",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

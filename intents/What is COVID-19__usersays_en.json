@@ -1,0 +1,170 @@
+[
+  {
+    "id": "e9962d6d-24a4-4199-b3de-a112e7283721",
+    "data": [
+      {
+        "text": "kovid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6948d726-6535-4eef-b36c-1dea8d455013",
+    "data": [
+      {
+        "text": "what is ko vid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "eaf23a4b-ac13-4637-8b3b-edbfb3b933d0",
+    "data": [
+      {
+        "text": "what is co vid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49ef5278-b24a-472e-8f2a-30f877a9de39",
+    "data": [
+      {
+        "text": "ko vid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81a4de8d-992d-4c1d-8808-deab8356246e",
+    "data": [
+      {
+        "text": "KOVID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66a85047-f828-43e1-9496-77c23fe33dd8",
+    "data": [
+      {
+        "text": "co vid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8deb3f45-6065-4936-923b-64f4fc4ccf21",
+    "data": [
+      {
+        "text": "COVID 19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3e3cbe2-23c4-4b75-b294-b9e97336bf73",
+    "data": [
+      {
+        "text": "What is COVID-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "674bf23a-390a-42eb-9dcf-b2fad9908607",
+    "data": [
+      {
+        "text": "What is COVID ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0f0a09b9-ccdf-4a5e-9229-48d2c69415dc",
+    "data": [
+      {
+        "text": "COVID",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "becc56f9-3c8f-41d3-88dd-6617330feebb",
+    "data": [
+      {
+        "text": "what the hell is COVID 19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b5f1d0d-1b56-4e43-b7f5-55423a0bd20f",
+    "data": [
+      {
+        "text": "COVID-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  }
+]

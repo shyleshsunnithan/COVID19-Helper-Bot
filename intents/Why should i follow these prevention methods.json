@@ -1,0 +1,56 @@
+{
+  "id": "197a2eee-563d-4502-abfa-0368bf77fc52",
+  "name": "Why should i follow these prevention methods",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Visited an affected area"
+            },
+            {
+              "title": "Prevention and Protection"
+            },
+            {
+              "title": "Symptoms"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Washing your hands with soap and water or using alcohol-based hand rub kills viruses that may be on your hands. When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain the virus. If you are too close, you can breathe in the droplets, including the COVID-19 virus if the person coughing has the disease. Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there, the virus can enter your body and can make you sick."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Droplets spread the virus. By following good respiratory hygiene you protect the people around you from viruses such as cold, flu and COVID-19.\nNational and local authorities will have the most up to date information on the situation in your area. Calling in advance will allow your health care provider to quickly direct you to the right health facility. This will also protect you and help prevent the spread of viruses and other infections. You have a higher chance of catching COVID-19 in one of these areas.\n\nSOURCE: WHO\n\nDo you have any other queries?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

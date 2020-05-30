@@ -1,0 +1,38 @@
+[
+  {
+    "id": "d0551fbe-4d76-4383-87b4-37a5c3effa84",
+    "data": [
+      {
+        "text": "feces",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92189daf-9181-4614-ae10-b39e70edd4cb",
+    "data": [
+      {
+        "text": "COVID-19 from the feces of someone with the disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b09b37a8-3712-4199-9916-2cb9ddbebc3f",
+    "data": [
+      {
+        "text": "Can I catch COVID-19 from the feces of someone with the disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

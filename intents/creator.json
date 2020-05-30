@@ -1,0 +1,55 @@
+{
+  "id": "ebe6f180-8da5-451b-9071-a485dbfee856",
+  "name": "creator",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "title": "Designer | Developer",
+          "subtitle": "Shylesh S, CEC",
+          "formattedText": "For contacting",
+          "image": {
+            "url": "https://shyleshsunnithan.github.io/img/logo.png",
+            "accessibilityText": "Shylesh"
+          },
+          "buttons": [
+            {
+              "title": "Shylesh S on Linked IN",
+              "openUrlAction": {
+                "url": "https://www.linkedin.com/in/shyleshsunnithan/",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Shylesh S from Kerala. Find his details below.\n\nDo you have any other queries?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

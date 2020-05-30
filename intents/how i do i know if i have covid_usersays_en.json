@@ -1,0 +1,140 @@
+[
+  {
+    "id": "46251fdf-b360-4f08-b32f-476156e88709",
+    "data": [
+      {
+        "text": "how i do i know if i have covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e17bc6ac-3e95-4974-b74b-f60e44bca1e1",
+    "data": [
+      {
+        "text": "how i do i know if i have covid 19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89804101-3e42-4f10-8cfa-02e31667b4c8",
+    "data": [
+      {
+        "text": "how i do i know if i have corona virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9cdabf62-f27d-44f9-8b30-d8a3802beeaa",
+    "data": [
+      {
+        "text": "how i do i know if i have coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c586300b-07bc-4ec9-b645-485584058c1a",
+    "data": [
+      {
+        "text": "how i do i know if i have corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b72b8fb-418c-4bb7-b9e8-fe73db8a65b3",
+    "data": [
+      {
+        "text": "symptoms for Coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b47ef704-b1f8-44cf-9e75-87cdb1769738",
+    "data": [
+      {
+        "text": "symptoms for Corona virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9b740ab-f7d5-4ec5-a6e4-be3a5fc3db14",
+    "data": [
+      {
+        "text": "symptoms for Corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfe50142-34d8-4031-9f34-e80afef2aada",
+    "data": [
+      {
+        "text": "symptoms for COVID-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ab43083-50d9-42c6-a4dc-32ce08b559e2",
+    "data": [
+      {
+        "text": "symptoms for COVID ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba5b0e09-c2be-4fd9-8711-eb275ffec432",
+    "data": [
+      {
+        "text": "What are the symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

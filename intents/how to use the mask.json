@@ -1,0 +1,53 @@
+{
+  "id": "99c458f8-09a1-4813-8b4c-3e639c7f1cf5",
+  "name": "how to use the mask",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Symptoms"
+            },
+            {
+              "title": "Protection \u0026 Prevention"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "First, Remember, a mask should only be used by health workers, care takers, and individuals with respiratory symptoms, such as fever and cough.\nBefore touching the mask, clean hands with an alcohol-based hand rub or soap and water.\nNow, Take the mask and inspect it for tears or holes. Orient which side is the top side (or where the metal strip is).\nEnsure the proper side of the mask faces outwards (that is the coloured side). Now, place the mask to your face. Pinch the metal strip or stiff edge of the mask so it moulds to the shape of your nose."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Then, pull down the mask’s bottom so it covers your mouth and your chin.\nAfter use, take off the mask; remove the elastic loops from behind the ears while keeping the mask away from your face and clothes, to avoid touching potentially contaminated surfaces of the mask. Discard the mask in a closed bin immediately after use. Perform hand hygiene after touching or discarding the mask – Use alcohol-based hand rub or, if visibly soiled, wash your hands with soap and water.\n\nSource: WHO\n\nAny other queries?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

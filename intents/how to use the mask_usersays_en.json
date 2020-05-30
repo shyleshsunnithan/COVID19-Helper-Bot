@@ -1,0 +1,38 @@
+[
+  {
+    "id": "2e688d42-e729-41bf-bb06-cf5a49e8ca34",
+    "data": [
+      {
+        "text": "using the mask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c6e14e1-bd19-4170-9970-d3c5bfb2112b",
+    "data": [
+      {
+        "text": "how to use the mask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b97a209-18fe-4aa3-be6d-24142812837b",
+    "data": [
+      {
+        "text": "How to use a mask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

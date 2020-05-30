@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e6b0d581-aee3-4302-b180-d319449913de",
+    "data": [
+      {
+        "text": "caught from no symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c22e972-310e-4a7c-9786-f2fd5c88d614",
+    "data": [
+      {
+        "text": "caught from a person who has no symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b62daf03-225f-4470-8c20-407323305e83",
+    "data": [
+      {
+        "text": "Can CoVID-19 be caught from a person who has no symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

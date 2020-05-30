@@ -1,0 +1,50 @@
+{
+  "id": "e52499ab-ad21-474f-a96e-7177d936cae1",
+  "name": "Can I catch COVID-19 from my pet?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Prevention \u0026 Protection"
+            },
+            {
+              "title": "Symptoms"
+            },
+            {
+              "title": "Dont\u0027s regarding COVID"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "No. There is no evidence that companion animals or pets such as cats and dogs have been infected or could spread the virus that causes COVID-19.\n\nSOURCE: WHO\n\nAny other queries?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

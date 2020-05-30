@@ -1,0 +1,56 @@
+{
+  "id": "9190f8b5-63ba-4051-9edb-e7a4e4eefd83",
+  "name": "Non effective measures",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Prevention \u0026 Protection"
+            },
+            {
+              "title": "Sources of spread"
+            },
+            {
+              "title": "Symptoms"
+            },
+            {
+              "title": "Medicines"
+            },
+            {
+              "title": "Anything to worry"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The following measures ARE NOT effective against COVID-2019 and can be harmful:\n\nSmoking,\nWearing multiple masks and\nTaking antibiotics\n\nIn any case, if you have fever, cough and difficulty breathing seek medical care early to reduce the risk of developing a more severe infection and be sure to share your recent travel history with your health care provider.\n\nSOURCE: WHO\n\nAny other Queries?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

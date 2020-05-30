@@ -1,0 +1,61 @@
+{
+  "id": "963e24c6-cd2a-4d1e-bc69-da01f7b8c4b4",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "What is COVID 19"
+            },
+            {
+              "title": "Corona Virus"
+            },
+            {
+              "title": "Symptoms"
+            },
+            {
+              "title": "Chances of Spread"
+            },
+            {
+              "title": "Prevention \u0026 Protection"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Hello! I\u0027m COVID-19 Helper. I can help you find answers to some of the frequently asked questions regarding COVID-19. All of my knowledge is from World Health Organization website. Ask me about your queries."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

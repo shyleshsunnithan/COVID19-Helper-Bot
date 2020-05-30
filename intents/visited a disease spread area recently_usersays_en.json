@@ -1,0 +1,48 @@
+[
+  {
+    "id": "4585e996-536b-4266-9ec3-1df89bb62bf2",
+    "data": [
+      {
+        "text": "visited a disease spread area recently",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4d57fbb-974e-4096-83d5-cea84a7631d1",
+    "data": [
+      {
+        "text": "visited recently",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9363fcf9-39bb-4caa-9c6c-b1a86c4c4608",
+    "data": [
+      {
+        "text": "Protection measures for persons who are in or have recently visited (",
+        "userDefined": false
+      },
+      {
+        "text": "past 14 days",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": ") areas where COVID-19 is spreading",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

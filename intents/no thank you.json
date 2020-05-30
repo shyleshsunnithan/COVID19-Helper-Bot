@@ -1,0 +1,55 @@
+{
+  "id": "bc677e83-9a24-4c5c-89e1-213cf72f05a3",
+  "name": "no thank you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "title": "COVID 19 Info",
+          "subtitle": "Corona Virus Disesase related information.",
+          "formattedText": "COVID 19 Information",
+          "image": {
+            "url": "https://cdn.siasat.com/wp-content/uploads/2020/03/WHO.jpg",
+            "accessibilityText": "website having information regarding COVID 19"
+          },
+          "buttons": [
+            {
+              "title": "WHO-Corona",
+              "openUrlAction": {
+                "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Have a great day. For more information you can visit WHO website, Stay safe."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
